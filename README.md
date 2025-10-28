@@ -58,27 +58,6 @@ Through iterative collaboration and testing, the final solution met all function
 
 ---
 
-## 🧩 Project Structure
-
-CondominiumManagementSystem/
-├── Forms/
-│ ├── MainForm.vb
-│ ├── ResidentForm.vb
-│ ├── ReportsForm.vb
-│ └── LoginForm.vb
-├── Classes/
-│ ├── Resident.vb
-│ ├── Report.vb
-│ └── DatabaseConnection.vb
-├── Modules/
-│ └── Utils.vb
-├── bin/
-├── obj/
-└── README.md
-
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Description |

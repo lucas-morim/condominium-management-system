@@ -16,6 +16,7 @@ It was developed to reduce manual effort, minimize data errors, and improve the 
 
 This system was developed for a **real client**, who actively participated throughout the entire development process.  
 Their feedback helped identify actual pain points in daily operations, allowing the software to directly **solve real management challenges**, such as:
+
 - Manual resident data tracking  
 - Inefficient report generation  
 - Lack of centralized information management  
@@ -60,3 +61,39 @@ Through iterative collaboration and testing, the final solution met all function
 
 ## 🧩 Project Structure
 
+CondominiumManagementSystem/
+├── Forms/
+│ ├── MainForm.vb
+│ ├── ResidentForm.vb
+│ ├── ReportsForm.vb
+│ └── LoginForm.vb
+├── Classes/
+│ ├── Resident.vb
+│ ├── Report.vb
+│ └── DatabaseConnection.vb
+├── Modules/
+│ └── Utils.vb
+├── bin/
+├── obj/
+└── README.md
+
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Description |
+|-------------|-------------|
+| **Visual Basic .NET** | Main programming language |
+| **Windows Forms** | Graphical user interface |
+| **OOP Principles** | Modular and reusable code architecture |
+| **ADO.NET** | Data handling and database integration |
+
+---
+
+## 🧭 Future Improvements
+
+- Add user authentication and role-based access  
+- Integrate with online databases or APIs  
+- Implement cloud backup for resident data  
+- Add statistics dashboard and data visualization  

@@ -58,20 +58,5 @@ Through iterative collaboration and testing, the final solution met all function
 
 ---
 
-## 🛠️ Technologies Used
+## 🧩 Project Structure
 
-| Technology | Description |
-|-------------|-------------|
-| **Visual Basic .NET** | Main programming language |
-| **Windows Forms** | Graphical user interface |
-| **OOP Principles** | Modular and reusable code architecture |
-| **ADO.NET** | Data handling and database integration |
-
----
-
-## 🧭 Future Improvements
-
-- Add user authentication and role-based access  
-- Integrate with online databases or APIs  
-- Implement cloud backup for resident data  
-- Add statistics dashboard and data visualization  
